@@ -1,0 +1,30 @@
+{
+  "name": "object-to-kv",
+  "version": "0.0.1",
+  "description": "Simple utility to convert a nested object to a flat Key Value pair array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "object",
+    "key-value",
+    "flatten",
+    "normalize",
+    "csv",
+    "json"
+  ],
+  "author": "deepkamal@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepkamal/okv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepkamal/okv/issues"
+  },
+  "homepage": "https://github.com/deepkamal/okv#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
